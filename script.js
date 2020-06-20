@@ -95,8 +95,6 @@ console.log ('Расходы за месяц: ' + appData.getExpensesMonth());
 
 console.log(appData.getStatusIncome());
 
-//lesson 4
-
 appData.getTargetMonth(appData.mission,appData.budgetMonth);
 
 
